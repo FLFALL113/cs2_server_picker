@@ -1,4 +1,3 @@
-#CS2 Server Picker
 
 image GitHub GitHub release (with filter) GitHub Repo stars
 
