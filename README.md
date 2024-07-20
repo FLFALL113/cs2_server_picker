@@ -1,3 +1,5 @@
+#CS2 Server Picker
+
 image GitHub GitHub release (with filter) GitHub Repo stars
 
 A lightweight server picker for CS2. Previously developed for CS:GO but now for CS2! All regions available are included for freedom of selection. Still showing passion for the game since I started playing way back in 2013 despite the fact that my laptop cannot handle the game anymore with the new visual upgrades 😃.
